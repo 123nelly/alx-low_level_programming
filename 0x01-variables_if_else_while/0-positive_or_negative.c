@@ -22,6 +22,16 @@ int main(void)
 
 					/* your code goes there */
 
-					return (0);
-
+				if (n>o){
+				printf("is positive");
+				}
+				if (n==o){
+				(printf"is zero");
+				}
+				if (n<0)
+				{
+				printf("is negative");
+				}	
+				return (0);
+					
 }
