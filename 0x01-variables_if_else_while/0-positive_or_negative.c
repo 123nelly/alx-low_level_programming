@@ -2,9 +2,13 @@
 
 #include <time.h>
 
-/* more headers goes there */
-/* always return success */
-/* betty style doc for function main goes there */
+#include <stdio.h>
+
+/**
+ *  main - prints if number is positive, zero or negative
+ *  
+ *  Return: Always (success) 
+ */
 
 int main(void)
 
